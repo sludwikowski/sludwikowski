@@ -1,5 +1,5 @@
 <h1 align="center">Hi , I'm Szymon <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<h4 align="center">I am looking for my first professional experience </h4>
+<h4 align="center">I am looking for my first professional experience.</h4>
 <br/>
 <br/>
 <h3 align="center">Tech Stack:</h3>
