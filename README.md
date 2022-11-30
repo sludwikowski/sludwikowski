@@ -12,6 +12,7 @@
 </p>
 <br/>
 <br/>
+
 ## :computer:Project:
 
 - [Kanban App](https://github.com/sludwikowski/kanban-app);
