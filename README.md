@@ -16,10 +16,10 @@
 ## :computer:Project:
 
 - [Kanban App](https://github.com/sludwikowski/kanban-app);
+- [Course App](https://github.com/sludwikowski/course-app);
 - [Currency-Wallet](https://github.com/sludwikowski/currency-wallet);
 - [Blog](https://github.com/sludwikowski/blog);
 - [Excursion Api](https://github.com/sludwikowski/excursion-api);
-- [Course App](https://github.com/sludwikowski/course-app);
 
 ## :computer:I am currently working on:
 
