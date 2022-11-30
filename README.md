@@ -13,7 +13,7 @@
 </p>
 <br/>
 <br/>
-https://yoheiko.com/wp-content/uploads/2021/03/image-13.png
+
 ## :computer:Project:
 
 - [Kanban App](https://github.com/sludwikowski/kanban-app);
