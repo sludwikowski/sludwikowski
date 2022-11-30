@@ -14,7 +14,7 @@
 <br/>
 <br/>
 
-## :computer:Project:
+## :computer:Some of My Projects:
 
 - [Kanban App](https://github.com/sludwikowski/kanban-app);
 - [Course App](https://github.com/sludwikowski/course-app);
