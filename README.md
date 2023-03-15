@@ -16,16 +16,16 @@
 <br/>
 
 ## :computer:Some of My Projects:
-
-- [Kanban App](https://github.com/sludwikowski/kanban-app);
+- [roadToReact - Blog](https://github.com/sludwikowski/personal-blog);
+- [Film App](https://github.com/sludwikowski/film-app)
 - [Course App](https://github.com/sludwikowski/course-app);
+- [Kanban App](https://github.com/sludwikowski/kanban-app);
 - [Currency-Wallet](https://github.com/sludwikowski/currency-wallet);
-- [Blog](https://github.com/sludwikowski/blog);
 - [Excursion Api](https://github.com/sludwikowski/excursion-api);
 
 ## :computer:I am currently working on:
 
-- [Travel with Me](https://github.com/sludwikowski/travel-with-me);
+- [roadToReact - Blog](https://github.com/sludwikowski/personal-blog);
 
 <br/>
 <br/>
