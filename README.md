@@ -2,18 +2,16 @@
 <h4 align="center">I am looking for my first professional experience.</h4>
 <br/>
 <br/>
-<h3 align="center">Tech Stack:</h3>
-<p align="center">
-<a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a> &nbsp&nbsp
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a>&nbsp&nbsp  <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>&nbsp&nbsp <a href="https://babeljs.io/" target="_blank"> <img src="https://raw.githubusercontent.com/babel/website/3774ba0fe50796963e8a63389116e07d932bd2e3/website/static/img/babel.svg" alt="babel" width="40" height="40"/></a>&nbsp&nbsp <a href="https://webpack.js.org" target="_blank"> <img src="https://profilinator.rishav.dev/skills-assets/webpack-original.svg" alt="webpack" width="40" height="40"/></a>
-<br/>
- <a href="https://mui.com/" target="_blank"><img style="margin: 10px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" alt="css3" width="40" height="40"/></a> 
-<a href="https://html.spec.whatwg.org/multipage/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/></a>
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/></a> 
 
-</p>
-<br/>
-<br/>
+```javascript
+const sludwikowski = {
+  pronouns: "he" | "him",
+  code: [Javascript, Typescript, HTML, CSS],
+  tools: [React, Redux, Next, Turborepo, Node, Firebase, Sanity, TailwindCSS, MaterialUI, Vite],
+  activities: " have a blog called Road to React, where I share the knowledge I gain.",
+  currently: "I am currently learning NextJS and TypeScript"
+}
+```
 
 ## :computer:Some of My Projects:
 - [roadToReact - Blog](https://github.com/sludwikowski/personal-blog);
