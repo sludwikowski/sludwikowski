@@ -14,6 +14,7 @@ const sludwikowski = {
 
 ## :computer:Some of My Projects:
 - [roadToReact - Blog](https://github.com/sludwikowski/personal-blog);
+- [rgnNewss](https://github.com/sludwikowski/gnNewss);
 - [Film App](https://github.com/sludwikowski/film-app)
 - [Course App](https://github.com/sludwikowski/course-app);
 - [Kanban App](https://github.com/sludwikowski/kanban-app);
