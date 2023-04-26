@@ -6,7 +6,7 @@
 const sludwikowski = {
   pronouns: "he" | "him",
   code: [Javascript, Typescript, HTML, CSS],
-  tools: [React, Redux, NextJS, Turborepo, Node, Firebase, Sanity, TailwindCSS, MaterialUI, Vite],
+  tools: [React, Redux, ReduxToolkit, NextJS, Turborepo, Node, Firebase, Sanity, TailwindCSS, MaterialUI, Vite],
   activities: "I have a blog called Road to React, where I share the knowledge I gain.",
   currently: "I am currently learning NextJS and TypeScript"
 }
