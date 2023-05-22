@@ -1,14 +1,14 @@
 <h1 align="center">Hi , I'm Szymon <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<h4 align="center">I am looking for my first professional experience.</h4>
+<h4 align="center">I am front-end developer.</h4>
 <br/>
 
 ```javascript
 const sludwikowski = {
   pronouns: "he" | "him",
   code: [Javascript, Typescript, HTML, CSS],
-  tools: [React, Redux, ReduxToolkit, NextJS, Turborepo, Node, Firebase, Sanity, TailwindCSS, MaterialUI, Vite],
+  tools: [React, Redux, NextJS, Node, Firebase, Sanity, TailwindCSS, MaterialUI, Vite],
   activities: "I have a blog called Road to React, where I share the knowledge I gain.",
-  currently: "I am currently learning NextJS and TypeScript"
+  currently: "I am currently writing projects in NextJS and TypeScript"
 }
 ```
 
