@@ -21,10 +21,6 @@ const sludwikowski = {
 - [Currency-Wallet](https://github.com/sludwikowski/currency-wallet);
 - [Excursion Api](https://github.com/sludwikowski/excursion-api);
 
-## :computer:I am currently working on:
-
-- [roadToReact - Blog](https://github.com/sludwikowski/personal-blog);
-
 
  <h3>Connect with me:</h3>
 
