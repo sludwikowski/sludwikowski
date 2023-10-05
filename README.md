@@ -2,7 +2,7 @@
 <h2 align="center">I am front-end developer.</h4>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sludwikowski&label=Vistiors:&color=0fe65a&style=plastic" alt="sludwikowski" /> </p>
 
-<h4 align="center">👯 Member of [MQ Software](https://github.com/emques)</h5>
+<h4 align="center">:technologist::skin-tone-3: Member of [MQ Software](https://github.com/emques)</h5>
 <br/>
 
 
