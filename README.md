@@ -3,13 +3,12 @@
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sludwikowski&label=Vistiors:&color=0fe65a&style=plastic" alt="sludwikowski" /> </p>
 <br/>
 
+- 👯 Member of [MQ Software](https://github.com/emques)
+
 ```javascript
 const sludwikowski = {
-  pronouns: "he" | "him",
-  code: [Javascript, Typescript, HTML, CSS],
-  tools: [React, Redux, NextJS, Node, Firebase, Sanity, TailwindCSS, MaterialUI, Vite],
+  languageAndTools: [React, Javascript, Typescript, HTML, CSS, Redux, NextJS, Node, Firebase, Sanity, TailwindCSS, MaterialUI, Vite],
   activities: "I have a blog called Road to React, where I share the knowledge I gain.",
-  currently: "I am currently writing projects in NextJS and TypeScript"
 }
 ```
 
@@ -17,10 +16,6 @@ const sludwikowski = {
 - [roadToReact - Blog](https://github.com/sludwikowski/personal-blog);
 - [gnNewss](https://github.com/sludwikowski/gnNewss);
 - [Course App](https://github.com/sludwikowski/course-app);
-- [Film App](https://github.com/sludwikowski/film-app)
-- [Kanban App](https://github.com/sludwikowski/kanban-app);
-- [Currency-Wallet](https://github.com/sludwikowski/currency-wallet);
-- [Excursion Api](https://github.com/sludwikowski/excursion-api);
 
 
  <h3>Connect with me:</h3>
