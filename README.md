@@ -1,5 +1,6 @@
 <h1 align="center">Hi , I'm Szymon <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <h4 align="center">I am front-end developer.</h4>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=sludwikowski&label=Vistiors:&color=0fe65a&style=plastic" alt="sludwikowski" /> </p>
 <br/>
 
 ```javascript
