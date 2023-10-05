@@ -1,8 +1,8 @@
 <h1 align="center">Hi , I'm Szymon <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<h2 align="center">I am front-end developer.</h4>
+<h3 align="center">A passionate React Developer from Poland</h4>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sludwikowski&label=Vistiors:&color=0fe65a&style=plastic" alt="sludwikowski" /> </p>
 
-<h4 align="center">:technologist::skin-tone-3: Member of [MQ Software](https://github.com/emques)</h5>
+<h4 align="center"> :technologist: Member of - [MQ Software](https://github.com/emques) </h5>
 <br/>
 
 
