@@ -2,7 +2,7 @@
 <h3 align="center">A passionate React Developer from Poland</h4>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sludwikowski&label=Vistiors:&color=0fe65a&style=plastic" alt="sludwikowski" /> </p>
 
-<h4 align="center"> :technologist: Member of - [MQ Software](https://github.com/emques) </h5>
+<h4 align="center"> :technologist: Member of - [AlfaByte](https://) </h5>
 <br/>
 
 
