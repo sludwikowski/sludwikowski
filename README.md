@@ -6,15 +6,11 @@
 
 ```javascript
 const sludwikowski = {
-  languageAndTools: [React, Javascript, Typescript, HTML, CSS, Redux, NextJS, Node, Firebase, Sanity, TailwindCSS, MaterialUI, Vite],
+  languageAndTools: [React, Javascript, Typescript, HTML, CSS, Redux, NextJS, Node, AWS, AWS Amplify, Firebase, Sanity, TailwindCSS, MaterialUI, Vite],
   activities: "I have a blog called Road to React, where I share the knowledge I gain.",
 }
 ```
 
-## :computer:Some of My Projects:
-- [roadToReact - Blog](https://github.com/sludwikowski/personal-blog);
-- [gnNewss](https://github.com/sludwikowski/gnNewss);
-- [Course App](https://github.com/sludwikowski/course-app);
 
 
  <h3>Connect with me:</h3>
