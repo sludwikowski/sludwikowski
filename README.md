@@ -1,8 +1,6 @@
 <h1 align="center">Hi , I'm Szymon <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <h3 align="center">A passionate React Developer from Poland</h4>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=sludwikowski&label=Vistiors:&color=0fe65a&style=plastic" alt="sludwikowski" /> </p>
-
-<h4 align="center"> :technologist: Member of - [AlfaByte](https://) </h5>
 <br/>
 
 
